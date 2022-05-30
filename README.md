@@ -1,1 +1,2 @@
-# Just Do Calculation
+# Just Do Calculation 
+Addition, Substraction, Multiplication, Division
